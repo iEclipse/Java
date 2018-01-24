@@ -1,0 +1,4 @@
+Apple, 1
+Banana, 100
+Carrot, 100000
+Potato, 10000000

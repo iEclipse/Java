@@ -1,0 +1,16 @@
+BASIC TAB
+============
+1. Run Launch4j as Administrator (or packaging the JRE won't work.)
+2. Change output file to whatever you want to name the exe file. (Include .exe in the name)
+3. Change Jar to the Jar file you want to compile
+
+JRE TAB
+============
+4. Copy the Relative URL of the Bundled JRE Path (eg: jre1.8.0_144)
+
+COMPILE
+============
+5. Click Build Wrapper (The Cog/Settings Icon on the top)
+6. Test Program by Clicking Play Button
+
+Note: May have to set from Run 64bit first to 32bit first

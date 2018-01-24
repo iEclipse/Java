@@ -1,0 +1,4 @@
+This, 1
+Shouldn't, 0
+Work, 10
+CauseItHasAZero, 4
